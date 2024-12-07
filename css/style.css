@@ -67,3 +67,7 @@ p,
   font-style: normal;
 }
 
+sup {
+  font-size: medium;
+  margin-left: 2px;
+}
