@@ -6,7 +6,7 @@ html {
   font-size: 16px;
 }
 body {
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .bold {
@@ -57,17 +57,6 @@ p,
   justify-content: flex-end;
 }
 
-.italic {
-  font-style: italic;
-  padding-left: 12px;
-  letter-spacing: 0.5px;
-}
-
-.not-italic {
-  font-style: normal;
-}
-
-sup {
-  font-size: medium;
-  margin-left: 2px;
+.indent {
+  margin-left: 1em;
 }
